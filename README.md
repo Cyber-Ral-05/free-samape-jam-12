@@ -22,7 +22,7 @@
 
 # ls
 
-# cd free-sampe-jam-12
+# cd free-samape-jam-12
 
 # ls
 
