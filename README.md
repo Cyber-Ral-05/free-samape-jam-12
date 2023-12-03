@@ -18,6 +18,8 @@
 
 # pip install rich
 
+# pip install stdiomask
+
 # git clone https://github.com/Cyber-Ral-05/free-samape-jam-12
 
 # ls
